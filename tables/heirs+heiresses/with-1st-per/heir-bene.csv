@@ -1,0 +1,32 @@
+name,percentage,role,author,novel,year,decade,century,genre
+Kit_Rackrent,7.796454,heir,female,CastleRackrent,1800,1800,1800,realism
+Sir_Condy,2.0072,heir,female,1CastleRackrent,1800,1800,1800,realism
+Sir_Murtagh,1.287936,heir,female,CastleRackrent,1800,1800,1800,realism
+Sir_Patrick,1.073519,heir,female,CastleRackrent,1800,1800,1800,realism
+Jason_M'Quirk,1.056308,heir,female,CastleRackrent,1800,1800,1800,realism
+Mortimer,3.3883300000000003,"suitor, heir",female,Cecilia,1782,1780,1700,courtship
+Richard_Mutimer,0.06751,heir,male,Demos,1886,1880,1800,realism
+George_Knightley,2.916316,"heir, suitor",female,Emma,1815,1810,1800,courtship
+Mr_Delamere,4.61264,"suitor, heir",female,Emmeline,1788,1780,1700,gothic
+Pip,6.465143,heir,male,GreatExpectations,1861,1860,1800,realism
+George_Hotspur,8.536032,"heir, suitor, unmoneyed",male,HarryHotspur,1871,1870,1800,realism
+Edward_Clayton,2.706677,"heir, suitor",female,Inheritance of Evil,1849,1840,1800,gothic
+Edward_Verney,4.953219,"heir, suitor",female,Inheritance of Evil,1849,1840,1800,gothic
+Mr_Rochester,2.802108,"heir, guardian, suitor",female,JaneEyre,1847,1840,1800,gothic
+Frederick_Lovel,1.36162,"heir, suitor",male,LadyAnna,1863,1860,1800,realism
+Fred_Vincy,1.997,"unmoneyed, heir",female,Middlemarch,1871,1870,1800,realism
+James,2.383581,heir,female,Northanger Abbey,1817,1810,1800,gothic
+Frederick,0.296797,heir,female,Northanger Abbey,1817,1810,1800,gothic
+Nicodemus_Boffin,5.5392519999999985,heir ,male,Our Mutual Friend,1865,1860,1800,realism
+John_Harmon,2.13936,"heir, suitor",male,Our Mutual Friend,1865,1860,1800,realism
+Roderick_Random,4.78942993332328,heir,male,RoderickRandom,1748,1740,1700,picaresque
+Lord_Colambre,12.452193,"heir,suitor",TheAbsentee,female,1812,1810,1800,realism
+Conrad,0.301818,heir,male,TheCastleofOtranto,1764,1760,1700,gothic
+Theodore,1.7223,"suitor, heir",male,TheCastleofOtranto,1764,1760,1700,gothic
+Charles_Edmonstone,2.063952,heir ,female,TheHeirofRedclyffe,1853,1850,1800,courtship
+Guy_Morville,7.436887,"heir, suitor",female,TheHeirofRedclyffe,1853,1850,1800,courtship
+Philip_Morville,2.930421,"heir, suitor",female,TheHeirofRedclyffe,1853,1850,1800,courtship
+Mr_Somerive,3.027559,"heir, father",female,TheOldManorHouse,1793,1790,1700,gothic
+Orlando_Somerive,2.619568,"heir, ward",female,TheOldManorHouse,1793,1790,1700,gothic
+Tom_Jones,7.165472969947291,"heir, suitor, ward",male,Tom Jones,1749,1740,1700,picaresque
+Mr_Blifil,1.1789017287748995,"heir, suitor",male,Tom Jones,1749,1740,1700,picaresque

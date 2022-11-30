@@ -1,0 +1,246 @@
+            The	        DT	      B-NP	         O	              -	      B-A1	(S1(S(NP(NP*
+          right	        NN	      E-NP	         O	              -	      I-A1	*)
+             of	        IN	      S-PP	         O	              -	      I-A1	(PP*
+    Translation	        NN	      S-NP	         O	              -	      E-A1	(NP*)))
+             is	       VBZ	      B-VP	         O	              -	         O	(VP*
+       reserved	       VBN	      E-VP	         O	       reserved	       S-V	(VP*))
+              .	         .	         O	         O	              -	         O	*))
+
+         London	       NNP	      S-NP	     S-LOC	              -	(S1(NP(NP*)
+              :	         :	         O	         O	              -	*
+             R.	       NNP	      B-NP	     B-PER	              -	(NP(NP(NP*
+           Clay	       NNP	      I-NP	     E-PER	              -	*)
+              ,	         ,	      I-NP	         O	              -	*
+           Sons	       NNP	      I-NP	     S-PER	              -	(NP*))
+              ,	         ,	      I-NP	         O	              -	*
+            and	        CC	      I-NP	         O	              -	*
+         Taylor	       NNP	      I-NP	     S-PER	              -	(NP(NP*)
+              ,	         ,	      I-NP	         O	              -	*
+       Printers	      NNPS	      I-NP	     B-ORG	              -	(NP*)
+              ,	         ,	      I-NP	     I-ORG	              -	*
+          Bread	       NNP	      I-NP	     I-ORG	              -	(NP*
+         Street	       NNP	      I-NP	     I-ORG	              -	*
+           Hill	       NNP	      E-NP	     E-ORG	              -	*)))
+              .	         .	         O	         O	              -	*))
+
+       CONTENTS	       NNS	      B-NP	         O	              -	(S1(NP(NP*)
+        CHAPTER	        NN	      I-NP	         O	              -	(NP*
+             I.	        NN	      E-NP	         O	              -	*)))
+
+            SIR	       NNP	      B-NP	         O	              -	(S1(NP*
+          HARRY	       NNP	      I-NP	     B-PER	              -	*
+        HOTSPUR	       NNP	      E-NP	     E-PER	              -	*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+            II.	       NNP	      E-NP	         O	              -	*))
+
+            OUR	      PRP$	      B-NP	         O	              -	(S1(NP*
+        HEROINE	        NN	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+             I.	        NN	      I-NP	     B-PER	              -	*
+           III.	       NNP	      E-NP	     E-PER	              -	*))
+
+           LORD	       NNP	      B-NP	         O	              -	(S1(NP(NP(NP*
+         ALFRED	       NNP	      E-NP	     S-PER	              -	*
+             'S	       POS	      B-NP	         O	              -	*)
+      COURTSHIP	        NN	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+            IV.	       NNP	      E-NP	         O	              -	*))
+
+    VACILLATION	       NNP	      S-NP	     S-LOC	              -	(S1(NP*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+             I.	        NN	      I-NP	     B-PER	              -	*
+             V.	       NNP	      I-NP	     I-PER	              -	*
+         GEORGE	       NNP	      I-NP	     I-PER	              -	*
+        HOTSPUR	       NNP	      E-NP	     E-PER	              -	*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+            VI.	       NNP	      E-NP	         O	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP(NP*
+           BALL	        NN	      E-NP	         O	              -	*)
+             IN	        IN	      S-PP	         O	              -	(PP*
+         BRUTON	       NNP	      B-NP	     B-LOC	              -	(NP*
+         STREET	       NNP	      E-NP	     E-LOC	              -	*))
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+           VII.	       NNP	      E-NP	         O	              -	*))
+
+           LADY	       NNP	      B-NP	     B-PER	              -	(S1(NP*
+     ALTRINGHAM	       NNP	      E-NP	     E-PER	              -	*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+          VIII.	       NNP	      E-NP	         O	              -	*))
+
+          AIREY	       NNP	      B-NP	     S-ORG	              -	(S1(NP*
+          FORCE	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+            IX.	       NNP	      E-NP	         O	              -	*))
+
+              "	        ``	         O	         O	              -	         O	(S1(S(ADVP*)
+              I	       PRP	      S-NP	         O	              -	      S-A0	(NP*)
+           KNOW	       VBP	      S-VP	         O	           KNOW	       S-V	(VP*
+           WHAT	        WP	      S-NP	         O	              -	      B-A1	(SBAR(WHNP*)
+            YOU	       PRP	      S-NP	         O	              -	      I-A1	(S(NP*)
+            ARE	       VBP	      S-VP	         O	              -	      E-A1	(VP*))))
+              .	         .	         O	         O	              -	         O	*
+              "	         .	         O	         O	              -	         O	(NP*)))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP(NP*
+             X.	       NNP	      I-NP	         O	              -	*)
+            MR.	       NNP	      I-NP	         O	              -	(NP(NP*
+           HART	       NNP	      E-NP	     S-PER	              -	*)
+            AND	        CC	         O	         O	              -	*
+        CAPTAIN	       NNP	      B-NP	         O	              -	(NP*
+        STUBBER	       NNP	      E-NP	     S-PER	              -	*)
+              .	         .	         O	         O	              -	*)))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+            XI.	       NNP	      E-NP	         O	              -	*))
+
+           MRS.	       NNP	      B-NP	         O	              -	(S1(NP*
+         MORTON	       NNP	      E-NP	     S-PER	              -	*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+           XII.	       NNP	      E-NP	         O	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	      B-A1	(S1(S(NP*
+           HUNT	        NN	      E-NP	         O	              -	      E-A1	*)
+        BECOMES	       VBZ	      S-VP	         O	        BECOMES	       S-V	(VP*
+            HOT	       NNP	      S-NP	         O	              -	      S-A2	(ADJP*))
+              .	         .	         O	         O	              -	         O	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+          XIII.	       NNP	      E-NP	         O	              -	*))
+
+              "	        IN	    S-SBAR	         O	              -	         O	(S1(S(ADVP*)
+              I	       PRP	      S-NP	         O	              -	      S-A0	(NP*)
+           WILL	        MD	      B-VP	         O	              -	  S-AM-MOD	(VP*
+            NOT	        RB	      I-VP	         O	              -	  S-AM-NEG	*
+         DESERT	        VB	      E-VP	         O	         DESERT	       S-V	(VP*
+           HIM.	       PRP	      S-NP	         O	              -	      B-A1	(NP*
+              "	         .	         O	         O	              -	      E-A1	*)))))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+           XIV.	       NNP	      E-NP	         O	              -	*))
+
+    PERTINACITY	       NNP	      S-NP	     S-LOC	              -	(S1(NP*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+            XV.	       NNP	      E-NP	         O	              -	*))
+
+         COUSIN	        NN	      B-NP	         O	              -	      B-A1	(S1(S(NP*
+         GEORGE	       NNP	      E-NP	         O	              -	      E-A1	*)
+             IS	       VBZ	      B-VP	         O	              -	         O	(VP*
+           HARD	        JJ	      I-VP	         O	              -	  S-AM-MNR	(ADJP*
+        PRESSED	       VBN	      E-VP	         O	        PRESSED	       S-V	*))
+              .	         .	         O	         O	              -	         O	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+           XVI.	       NNP	      E-NP	         O	              -	*))
+
+            SIR	       NNP	      B-NP	         O	              -	(S1(NP(NP(NP*
+          HARRY	       NNP	      E-NP	     S-PER	              -	*
+             'S	       POS	      B-NP	         O	              -	*)
+         RETURN	        NN	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+           XVII	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+              "	        ``	         O	         O	              -	         O	         O	(S1(S(ADVP*)
+            LET	        VB	      S-VP	         O	            LET	       S-V	         O	(VP*
+             US	       PRP	      S-NP	     S-ORG	              -	      B-A1	      S-A0	(S(NP*)
+            TRY	        VB	      S-VP	         O	            TRY	      E-A1	       S-V	(VP*)))
+              .	         .	         O	         O	              -	         O	         O	*
+              "	         .	         O	         O	              -	         O	         O	(NP*)))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+          XVIII	       NNP	      E-NP	    S-MISC	              -	*
+              .	         .	         O	         O	              -	*))
+
+           GOOD	        JJ	      B-NP	         O	              -	(S1(NP*
+         ADVICE	        NN	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+            XIX	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP*
+            NEW	        JJ	      I-NP	         O	              -	*
+         SMITHY	        NN	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+             XX	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+         COUSIN	        NN	      B-NP	         O	              -	(S1(NP(NP*
+         GEORGE	       NNP	      E-NP	     S-PER	              -	*
+             'S	       POS	      B-NP	         O	              -	*)
+        SUCCESS	        NN	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+            XXI	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+          EMILY	       NNP	      B-NP	     B-PER	              -	(S1(NP(NP*
+        HOTSPUR	       NNP	      E-NP	     E-PER	              -	(NP*
+             'S	       POS	      B-NP	         O	              -	*)
+         SERMON	        NN	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+           XXII	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+         GEORGE	       NNP	      B-NP	         O	              -	(S1(NP*
+        HOTSPUR	       NNP	      I-NP	         O	              -	*
+         YIELDS	      NNPS	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+          XXIII	       NNP	      E-NP	     S-PER	              -	*
+              .	         .	         O	         O	              -	*))
+
+              "	        IN	    S-SBAR	         O	              -	         O	(S1(S(ADVP*)
+              I	       PRP	      S-NP	         O	              -	      S-A1	(NP*)
+          SHALL	        MD	      B-VP	         O	              -	  S-AM-MOD	(VP*
+          NEVER	        RB	      I-VP	         O	              -	  S-AM-TMP	(ADVP*)
+             BE	        VB	      I-VP	         O	              -	         O	(VP*
+        MARRIED	       VBN	      E-VP	         O	        MARRIED	       S-V	(VP*)))
+              .	         .	         O	         O	              -	         O	*
+              "	         .	         O	         O	              -	         O	(NP*)))
+
+        CHAPTER	        NN	      B-NP	         O	              -	(S1(NP*
+           XXIV	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP*
+            END	        NN	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+            SIR	       NNP	      B-NP	         O	              -	(S1(NP(NP*
+          HARRY	       NNP	      I-NP	     B-PER	              -	*
+        HOTSPUR	       NNP	      E-NP	     E-PER	              -	*)
+             OF	        IN	      S-PP	         O	              -	(PP*
+  HUMBLETHWAITE	       NNP	      S-NP	     S-LOC	              -	(NP*))
+              .	         .	         O	         O	              -	*))
+

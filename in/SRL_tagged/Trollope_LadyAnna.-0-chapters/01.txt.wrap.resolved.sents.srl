@@ -1,0 +1,214 @@
+              [	        IN	    S-SBAR	         O	              -	         O	(S1(FRAG(SBAR*
+            All	        DT	      B-NP	         O	              -	      B-A1	(S(NP*
+         rights	       NNS	      E-NP	         O	              -	      E-A1	*)
+       reserved	       VBN	      S-VP	         O	       reserved	       S-V	(VP*)))
+              .	         .	         O	         O	              -	         O	*
+              ]	     -RRB-	         O	         O	              -	         O	*))
+
+         London	       NNP	      S-NP	     S-LOC	              -	      S-A1	(S1(NP(NP*)
+              :	         :	         O	         O	              -	         O	*
+        Printed	       VBN	      S-VP	         O	        Printed	       S-V	(ADJP*
+             by	        IN	      S-PP	         O	              -	      B-A0	(PP*
+         Virtue	       NNP	      B-NP	         O	              -	      I-A0	(NP(NP*
+            and	        CC	      I-NP	         O	              -	      I-A0	*
+            Co.	       NNP	      E-NP	         O	              -	      I-A0	*)
+              ,	         ,	         O	         O	              -	      I-A0	*
+           City	       NNP	      B-NP	     B-LOC	              -	      I-A0	(NP*
+           Road	       NNP	      E-NP	     E-LOC	              -	      E-A0	*))))
+              .	         .	         O	         O	              -	         O	*))
+
+       CONTENTS	       NNS	      S-NP	         O	              -	(S1(NP(NP*)
+             OF	        IN	      S-PP	         O	              -	(PP*
+           VOL.	       NNP	      S-NP	         O	              -	(NP*))))
+
+             I.	        NN	      B-NP	     B-PER	              -	(S1(NP*
+             I.	        NN	      E-NP	     E-PER	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP(NP*
+          EARLY	        JJ	      I-NP	         O	              -	*
+        HISTORY	        NN	      E-NP	         O	              -	*)
+             OF	        IN	      S-PP	         O	              -	(PP*
+           LADY	       NNP	      B-NP	         O	              -	(NP*
+          LOVEL	       NNP	      E-NP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+            II.	       NNP	      S-NP	         O	              -	(S1(NP*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(S(NP*
+           EARL	       NNP	      E-NP	         O	              -	*
+             'S	       POS	      B-NP	         O	              -	*)
+           WILL	       NNP	      E-NP	         O	              -	(VP*)
+              .	         .	         O	         O	              -	*))
+
+           III.	       NNP	      S-NP	         O	              -	(S1(NP*))
+
+           LADY	       NNP	      B-NP	     B-PER	              -	(S1(NP*
+           ANNA	       NNP	      E-NP	     E-PER	              -	*
+              .	         .	         O	         O	              -	*))
+
+            IV.	       NNP	      S-NP	         O	              -	(S1(NP*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP(NP*
+         TAILOR	        NN	      E-NP	     B-ORG	              -	*)
+             OF	        IN	      S-PP	     I-ORG	              -	(PP*
+        KESWICK	       NNP	      S-NP	     E-ORG	              -	(NP*))
+              .	         .	         O	         O	              -	*))
+
+             V.	       NNP	         O	         O	              -	      B-A0	(S1(S(PP*
+            THE	       NNP	      B-NP	         O	              -	      I-A0	(NP*
+SOLICITOR-GENERAL	       NNP	      E-NP	         O	              -	      E-A0	*))
+          MAKES	       VBZ	      S-VP	         O	          MAKES	       S-V	(VP*
+              A	        DT	      B-NP	         O	              -	      B-A1	(NP*
+    PROPOSITION	        NN	      E-NP	         O	              -	      E-A1	*))
+              .	         .	         O	         O	              -	         O	*))
+
+            VI.	       NNP	         O	         O	              -	(S1(NP*))
+
+         YOXHAM	       NNP	      B-NP	     B-ORG	              -	(S1(NP*
+        RECTORY	       NNP	      E-NP	     E-ORG	              -	*
+              .	         .	         O	         O	              -	*))
+
+           VII.	       NNP	         O	         O	              -	(S1(NP*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP*
+SOLICITOR-GENERAL	       NNP	      I-NP	         O	              -	*
+     PERSEVERES	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+          VIII.	       NNP	      S-NP	         O	              -	(S1(NP*))
+
+     IMPOSSIBLE	        JJ	    S-ADJP	         O	              -	(S1(INTJ*
+              !	         .	         O	         O	              -	*))
+
+            IX.	       NNP	         O	         O	              -	(S1(NP*))
+
+             IX	       NNP	      B-NP	    B-MISC	              -	(S1(NP*
+            ISN	       NNP	      I-NP	    I-MISC	              -	*
+             'T	       NNP	      I-NP	    I-MISC	              -	*
+            LAW	       NNP	      E-NP	    E-MISC	              -	*
+              .	         .	         O	         O	              -	*))
+
+             X.	       NNP	         O	     S-PER	              -	(S1(NP*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(FRAG(NP*
+          FIRST	        JJ	      I-NP	         O	              -	*
+      INTERVIEW	        NN	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+            XI.	       NNP	      S-NP	         O	              -	(S1(NP*))
+
+             IT	       PRP	      S-NP	         O	              -	(S1(S(NP*)
+             IS	       VBZ	      S-VP	         O	              -	(VP*
+            TOO	        RB	    B-ADJP	         O	              -	(ADJP*
+           LATE	        JJ	    E-ADJP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+           XII.	       NNP	      S-NP	         O	              -	(S1(NP*))
+
+           HAVE	        VB	         O	         O	              -	         O	(S1(SQ*
+           THEY	       PRP	      S-NP	         O	              -	      S-A1	(NP*)
+    SURRENDERED	       VBD	      S-VP	         O	    SURRENDERED	       S-V	(VP*)
+              ?	         .	         O	         O	              -	         O	*))
+
+          XIII.	       NNP	         O	         O	              -	(S1(NP*))
+
+            NEW	       NNP	      B-NP	         O	              -	(S1(NP*
+        FRIENDS	      NNPS	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+           XIV.	       NNP	      S-NP	     S-PER	              -	(S1(NP*))
+
+            THE	        DT	      B-NP	         O	              -	      B-A1	(S1(S(NP*
+           EARL	       NNP	      E-NP	         O	              -	      E-A1	*)
+        ARRIVES	       VBZ	      S-VP	         O	        ARRIVES	       S-V	(VP*)
+              .	         .	         O	         O	              -	         O	*))
+
+            XV.	       NNP	      S-NP	         O	              -	(S1(NP*))
+
+     WHARFEDALE	       NNP	      S-NP	     S-ORG	              -	(S1(NP(NP*)
+              .	         .	         O	         O	              -	*))
+
+           XVI.	       NNP	         O	         O	              -	(S1(NP*))
+
+            FOR	        IN	      S-PP	         O	              -	(S1(FRAG(PP*
+           EVER	        RB	      S-NP	         O	              -	(NP*))
+              .	         .	         O	         O	              -	*))
+
+           XVII	       NNP	      S-NP	    S-MISC	              -	(S1(NP*
+              .	         .	         O	         O	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP*
+        JOURNEY	        NN	      I-NP	         O	              -	*
+           HOME	        NN	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+          XVIII	       NNP	      S-NP	    S-MISC	              -	(S1(NP*
+              .	         .	         O	         O	              -	*))
+
+            TOO	        RB	    B-ADJP	         O	              -	(S1(FRAG(ADJP*
+          HEAVY	        JJ	    E-ADJP	         O	              -	*)
+            FOR	        IN	      S-PP	         O	              -	(PP*
+        SECRETS	       NNS	      S-NP	         O	              -	(NP*))
+              .	         .	         O	         O	              -	*))
+
+            XIX	       NNP	      S-NP	    S-MISC	              -	(S1(NP*
+              .	         .	         O	         O	              -	*))
+
+           LADY	       NNP	      B-NP	     B-PER	              -	(S1(NP*
+           ANNA	       NNP	      E-NP	     E-PER	              -	*
+              .	         .	         O	         O	              -	*))
+
+        RETURNS	       NNS	      S-NP	         O	              -	(S1(NP(NP*)
+             TO	        TO	      S-PP	         O	              -	(PP*
+         LONDON	       NNP	      S-NP	     S-LOC	              -	(NP*))
+              .	         .	         O	         O	              -	*))
+
+             XX	       NNP	      S-NP	     S-LOC	              -	(S1(NP*
+              .	         .	         O	         O	              -	*))
+
+           LADY	       NNP	      B-NP	         O	              -	(S1(NP(NP(NP*
+           ANNA	       NNP	      E-NP	     S-PER	              -	*
+             'S	       POS	      B-NP	         O	              -	*)
+      RECEPTION	        NN	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+            XXI	       NNP	      S-NP	     S-LOC	              -	(S1(NP(NP*)
+              .	         .	         O	         O	              -	*))
+
+         DANIEL	       NNP	      S-NP	     S-PER	              -	(S1(NP(NP*)
+            AND	        CC	         O	         O	              -	*
+            THE	        DT	      B-NP	         O	              -	(NP*
+         LAWYER	        NN	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*)))
+
+           XXII	       NNP	      S-NP	     S-PER	              -	(S1(NP*
+              .	         .	         O	         O	              -	*))
+
+          THERE	        EX	      S-NP	         O	              -	(S1(S(NP*)
+             IS	       VBZ	      S-VP	         O	              -	(VP*
+              A	        DT	      B-NP	         O	              -	(NP*
+           GULF	       NNP	      I-NP	     S-LOC	              -	*
+          FIXED	       NNP	      E-NP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+          XXIII	       NNP	      S-NP	     S-PER	              -	(S1(NP*
+              .	         .	         O	         O	              -	*))
+
+        BEDFORD	       NNP	      B-NP	     S-ORG	              -	(S1(NP*
+         SQUARE	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+           XXIV	       NNP	      S-NP	     S-LOC	              -	(S1(NP*
+              .	         .	         O	         O	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP(NP*
+            DOG	        NN	      E-NP	         O	              -	*)
+             IN	        IN	      S-PP	         O	              -	(PP*
+            THE	        DT	      B-NP	         O	              -	(NP*
+         MANGER	        NN	      E-NP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+           LADY	       NNP	      B-NP	     B-PER	              -	(S1(NP*
+           ANNA	       NNP	      E-NP	     E-PER	              -	*
+              .	         .	         O	         O	              -	*))
+

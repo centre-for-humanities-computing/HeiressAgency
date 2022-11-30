@@ -1,0 +1,23 @@
+name,percentage,role,author,novel,year,decade,century,genre
+Ada_Clare,0.545722,"heiress, ward",male,Bleak House,1853,1850,1800,realism
+Ester_Summerson,0.640183,"unmoneyed, ward",male,Bleak House,1853,1850,1800,realism
+Camilla,4.257639,"heiress, ward",female,Camilla,1796,1790,1700,courtship
+Eugenia,2.401557,"heiress, ward",female,Camilla,1796,1790,1700,courtship
+Indiana,0.544324,"heiress, ward",female,Camilla,1796,1790,1700,courtship
+Edgar,2.385311,"suitor, ward",female,Camilla,1796,1790,1700,courtship
+Clermont,0.810028,"ward, suitor",female,Camilla,1796,1790,1700,courtship
+Cecilia,7.83097,"heiress, ward",female,Cecilia,1782,1780,1700,courtship
+Agnes_Maynard,4.18657,"heiress, ward",female,InheritanceOfEvil,1849,1840,1800,gothic
+Elizabeth_Maynard,2.482096,"heiress, ward",female,InheritanceOfEvil,1849,1840,1800,gothic
+Maud,6.327442,"heiress, ward",male,LeFanu_Uncle_Silas,1864,1860,1800,gothic
+Lucretia,3.206762,"heiress, ward",male,Lucretia,1846,1840,1800,gothic
+Celia_Brooke,0.159352,ward,female,Middlemarch,1871,1870,1800,realism
+Dorothea,3.13665,"heiress, ward",female,Middlemarch,1871,1870,1800,realism
+Narcissa,0.60030093964722,"heiress, ward",male,RoderickRandom,1748,1740,1700,picaresque
+Emily,13.668192,"heiress, ward",female,The Mysteries of Udolpho,1794,1790,1700,gothic
+Laura_Fairlie,3.814314,"heiress, ward",male,The Woman in White,1860,1860,1800,gothic
+Marian_Halcombe,2.290895,"unmoneyed, ward",male,The Woman in White,1860,1860,1800,gothic
+Lady_Arabella,10.976289999999999,"heiress, ward",female,TheFemaleQuixote,1752,1750,1700
+Monimia,1.442083,"unmoneyed, ward",female,TheOldManorHouse,1793,1790,1700,gothic
+Orlando_Somerive,2.619568,"heir, ward",female,TheOldManorHouse,1793,1790,1700,gothic
+Tom_Jones,7.165472969947291,"heir, suitor, ward",male,Tom Jones,1749,1740,1700,picaresque

@@ -1,0 +1,24 @@
+             In	        IN	      S-PP	         O	              -	      B-A1	         O	(S1(S(SBAR(WHPP*
+          which	       WDT	      S-NP	         O	              -	      I-A1	         O	(WHNP*))
+            our	      PRP$	      B-NP	         O	              -	      I-A1	      B-A1	(S(NP(NP*
+         Heroin	       NNP	      E-NP	     B-ORG	              -	      I-A1	      I-A1	*
+             's	       POS	      B-NP	     I-ORG	              -	      I-A1	      I-A1	*)
+   Extravagance	        NN	      E-NP	     E-ORG	              -	      E-A1	      E-A1	*)
+           will	        MD	      B-VP	         O	              -	  S-AM-MOD	         O	(VP*
+             be	        VB	      I-VP	         O	              -	         O	         O	(VP*
+        thought	       VBN	      E-VP	         O	        thought	       S-V	         O	(VP*
+              ,	         ,	         O	         O	              -	         O	         O	*
+        perhaps	        RB	    S-ADVP	         O	              -	         O	         O	(ADVP*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+             to	        TO	      B-VP	         O	              -	         O	         O	(S(VP*
+             be	        VB	      I-VP	         O	              -	         O	         O	(VP*
+        carried	       VBN	      E-VP	         O	        carried	         O	       S-V	(VP*
+             to	        TO	      S-PP	         O	              -	         O	      B-A2	(PP*
+             an	        DT	      B-NP	         O	              -	         O	      I-A2	(NP*
+    extravagant	        JJ	      I-NP	         O	              -	         O	      I-A2	*
+         Length	        NN	      E-NP	         O	              -	         O	      E-A2	*)))))))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+          MADAM	       NNP	      S-NP	         O	              -	(S1(NP(NP*)
+              ,	         ,	         O	         O	              -	*))
+

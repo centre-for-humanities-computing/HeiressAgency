@@ -1,0 +1,81 @@
+            For	        IN	      S-PP	         O	              -	         O	         O	         O	         O	(S1(S(PP*
+             me	       PRP	      S-NP	         O	              -	         O	         O	         O	         O	(NP*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	*
+             no	        DT	      B-NP	         O	              -	      B-A3	         O	         O	         O	(X*
+           more	       JJR	      E-NP	         O	              -	      I-A3	         O	         O	         O	*)
+              I	       PRP	      S-NP	         O	              -	      E-A3	         O	         O	         O	(NP*)
+           Will	        MD	      B-VP	         O	              -	  S-AM-MOD	         O	         O	         O	(VP*
+          range	        VB	      E-VP	         O	          range	       S-V	         O	         O	         O	(VP*
+            the	        DT	      B-NP	         O	              -	  B-AM-LOC	         O	         O	         O	(NP(NP*
+      empurpled	        JJ	      I-NP	         O	              -	  I-AM-LOC	         O	         O	         O	*
+           mead	        NN	      E-NP	         O	              -	  I-AM-LOC	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	  I-AM-LOC	         O	         O	         O	*
+          Where	       WRB	    S-ADVP	         O	              -	  I-AM-LOC	         O	         O	         O	(SBAR(WHADVP*)
+      shepherds	       NNS	      B-NP	         O	              -	  I-AM-LOC	         O	         O	         O	(S(NP*
+           pipe	        NN	      E-NP	         O	              -	  I-AM-LOC	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	  I-AM-LOC	         O	         O	         O	*
+            and	        CC	         O	         O	              -	  I-AM-LOC	         O	         O	         O	*
+        virgins	       NNS	      S-NP	         O	              -	  I-AM-LOC	      S-A0	         O	         O	(S(NP*)
+          dance	       VBP	      S-VP	         O	          dance	  I-AM-LOC	       S-V	         O	         O	(VP*
+         around	        RB	    S-ADVP	         O	              -	  E-AM-LOC	  S-AM-DIR	         O	         O	(ADVP*)))
+              ;	         :	         O	         O	              -	         O	         O	         O	         O	*
+            Nor	        CC	         O	         O	              -	         O	         O	      S-A0	         O	*
+         wander	       VBP	      S-VP	         O	         wander	         O	         O	       S-V	         O	(S(VP*
+        through	        IN	      S-PP	         O	              -	         O	         O	      B-A1	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	         O	      I-A1	         O	(NP(NP*
+       woodbine	        NN	      E-NP	         O	              -	         O	         O	      I-A1	         O	*
+             's	       POS	      B-NP	         O	              -	         O	         O	      I-A1	         O	*)
+       fragrant	        JJ	      I-NP	         O	              -	         O	         O	      I-A1	         O	*
+          shade	        NN	      E-NP	         O	              -	         O	         O	      E-A1	         O	*)))))))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	*
+             To	        TO	      B-VP	         O	              -	         O	         O	         O	         O	(S(VP*
+           hear	        VB	      E-VP	         O	           hear	         O	         O	         O	       S-V	(VP*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	      B-A1	(NP(NP*
+          music	        NN	      E-NP	         O	              -	         O	         O	         O	      I-A1	*)
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	      I-A1	(PP*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	      I-A1	(NP*
+          grove	        NN	      I-NP	         O	              -	         O	         O	         O	      I-A1	*
+        resound	        NN	      E-NP	         O	              -	         O	         O	         O	      E-A1	*))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	*))
+
+            IV.	       NNP	      S-NP	         O	              -	(S1(NP*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	         O	         O	         O	         O	(S1(S(S(NP*)
+           Will	        MD	      B-VP	         O	              -	  S-AM-MOD	         O	         O	         O	         O	(VP*
+           seek	        VB	      E-VP	         O	           seek	       S-V	         O	         O	         O	         O	(VP*
+           some	        DT	      B-NP	         O	              -	      B-A1	         O	         O	         O	         O	(NP(NP(NP*
+         lonely	        JJ	      I-NP	         O	              -	      I-A1	         O	         O	         O	         O	*
+         church	        NN	      E-NP	         O	              -	      I-A1	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	      I-A1	         O	         O	         O	         O	*
+             or	        CC	         O	         O	              -	      I-A1	         O	         O	         O	         O	*
+         dreary	        JJ	      B-NP	         O	              -	      I-A1	         O	         O	         O	         O	(NP*
+           hall	        NN	      E-NP	         O	              -	      I-A1	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	      I-A1	         O	         O	         O	         O	*)
+          Where	       WRB	    S-ADVP	         O	              -	      I-A1	S-R-AM-LOC	         O	         O	         O	(WHADVP*)
+          fancy	        NN	      S-NP	         O	              -	      I-A1	      S-A0	         O	         O	         O	(PRN(S(NP*)
+         paints	       VBZ	      S-VP	         O	         paints	      I-A1	       S-V	         O	         O	         O	(VP(PRN(S(VP*
+            the	        DT	      B-NP	         O	              -	      I-A1	      B-A1	      B-A1	      B-A1	         O	(NP(NP*
+     glimmering	        JJ	      I-NP	         O	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	*
+          taper	        NN	      I-NP	         O	              -	      I-A1	      I-A1	      I-A1	      I-A1	         O	*
+           blue	        NN	      E-NP	         O	              -	      I-A1	      I-A1	      E-A1	      E-A1	         O	*)
+              ,	         ,	         O	         O	              -	      I-A1	      I-A1	         O	         O	         O	*
+          Where	       WRB	    S-ADVP	         O	              -	      I-A1	      I-A1	         O	         O	         O	(SBAR(WHADVP*)
+          damps	       NNS	      S-NP	         O	              -	      I-A1	      I-A1	      S-A1	      S-A0	         O	(S(NP*)
+           hang	       VBP	      B-VP	         O	           hang	      I-A1	      I-A1	       S-V	         O	         O	(VP*
+     mouldering	       VBG	      E-VP	         O	     mouldering	      I-A1	      I-A1	      S-A2	       S-V	         O	(S(VP*
+             on	        IN	      S-PP	         O	              -	      I-A1	      I-A1	         O	      B-A1	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A1	      I-A1	         O	      I-A1	         O	(NP*
+            ivy	        NN	      E-NP	         O	              -	      I-A1	      I-A1	         O	      E-A1	         O	*)))))))))
+             'd	       VBD	      B-VP	         O	              -	      I-A1	      I-A1	         O	         O	         O	(VP*
+           wall	        NN	      I-VP	         O	              -	      E-A1	      E-A1	         O	         O	         O	(NP*))))
+              ,	         ,	      I-VP	         O	              -	         O	         O	         O	         O	         O	*
+            And	        CC	      I-VP	         O	              -	         O	         O	         O	         O	         O	*
+        sheeted	       VBD	      E-VP	         O	              -	         O	         O	         O	         O	      B-A0	(VP*
+         ghosts	       NNS	      S-NP	         O	              -	         O	         O	         O	         O	      E-A0	(SBAR(S(NP*)
+          drink	       VBP	      S-VP	         O	          drink	         O	         O	         O	         O	       B-V	(VP*
+             up	        RP	     S-PRT	         O	              -	         O	         O	         O	         O	       E-V	(ADVP*)
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	         O	      B-A1	(NP*
+       midnight	        NN	      I-NP	         O	              -	         O	         O	         O	         O	      I-A1	*
+            dew	        NN	      E-NP	         O	              -	         O	         O	         O	         O	      E-A1	*))))))))))))
+              ;	         :	         O	         O	              -	         O	         O	         O	         O	         O	*))
+

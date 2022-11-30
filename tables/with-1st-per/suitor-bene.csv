@@ -1,0 +1,33 @@
+name,percentage,role,author,novel,year,decade,century,genre
+Hebbers,0.03254,"unmoneyed, suitor",female,Amelia,1751,1750,1700,courtship
+Captain_Booth,5.375038,"unmoneyed, suitor",female,Amelia,1751,1750,1700,courtship
+Allan_Woodcourt,1.298596,"unmoneyed, suitor",male,Bleak House,1853,1850,1800,realism
+Edgar,2.385311,"suitor, ward",female,Camilla,1796,1790,1700,courtship
+Sir_Sedley,2.360749,"suitor, moneyed",female,Camilla,1796,1790,1700,courtship
+Bellamy,0.29359,"unmoneyed, suitor",female,Camilla,1796,1790,1700,courtship
+Clermont,0.810028,"ward, suitor",female,Camilla,1796,1790,1700,courtship
+Mortimer,3.3883300000000003,"suitor, heir",female,Cecilia,1782,1780,1700,courtship
+George_Knightley,2.916316,"heir, suitor",female,Emma,1815,1810,1800,courtship
+Mr_Delamere,4.61264,"suitor, heir",female,Emmeline,1788,1780,1700,gothic
+George_Hotspur,8.536032,"heir, suitor, unmoneyed",male,HarryHotspur,1871,1870,1800,realism
+Edward_Clayton,2.706677,"heir, suitor",female,InheritanceOfEvil,1849,1840,1800,gothic
+Mr_Rochester,2.802108,"heir, guardian, suitor",female,JaneEyre,1847,1840,1800,gothic
+Daniel_Thwaite,4.640153,"unmoneyed, suitor",male,LadyAnna,1863,1860,1800,realism
+Frederick_Lovel,1.36162,"heir, suitor",male,LadyAnna,1863,1860,1800,realism
+Darnford,2.592859,suitor,female,Maria,1798,1790,1700,courtship
+George_Venables,4.7640410000000015,suitor,female,Maria,1798,1790,1700,courtship
+John_Harmon,2.13936,"heir, suitor",male,Our Mutual Friend,1865,1860,1800,realism
+Lord_Colambre,2.934015,"heir,suitor",female,1812,1810,1800,realism
+Count_Montoni,2.004862,"moneyed, suitor",female,The Mysteries of Udolpho,1794,1790,1700,gothic
+Count_Morano,0.303318,suitor,female,The Mysteries of Udolpho,1794,1790,1700,gothic
+Valancourt,1.372146,"unmoneyed, suitor",female,The Mysteries of Udolpho,1794,1790,1700,gothic
+Walter_Hartright,1.156039,"unmoneyed, suitor",male,The Woman in White,1860,1860,1800,gothic
+Theodore,1.7223,"suitor, heir",male,TheCastleofOtranto,1764,1760,1700,gothic
+Mr_Glanville,9.190164999999999,suitor,female,TheFemaleQuixote,1752,1750,1700,courtship
+Mr_Hervey,1.330111,suitor,female,TheFemaleQuixote,1752,1750,1700,courtship
+Sir_George,3.5799,"suitor, moneyed",female,TheFemaleQuixote,1752,1750,1700,courtship
+Philip_Morville,2.930421,"heir, suitor",female,TheHeirofRedclyffe,1853,1850,1800,courtship
+Guy_Morville,7.436887,"heir, suitor",female,TheHeirofRedclyffe,1853,1850,1800,courtship
+Sir_John,1.3421530000000002,"moneyed, suitor",female,TheOldManorHouse,1793,1790,1700,gothic
+Mr_Blifil,1.1789017287748995,"heir, suitor",male,Tom Jones,1749,1740,1700,picaresque
+Tom_Jones,7.165472969947291,"heir, suitor, ward",male,Tom Jones,1749,1740,1700,picaresque

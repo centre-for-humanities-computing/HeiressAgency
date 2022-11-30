@@ -1,0 +1,16 @@
+name,percentage,role,author,novel,year,decade,century,genre
+Mr_Brooke,2.0226740000000003,guardian,female,Middlemarch,1871,1870,1800,realism
+Lord_Montreville,4.226038,guardian,female,Emmeline,1788,1780,1700,gothic
+Mr_Tyrold,1.369705,"guardian,,unmoneyed",female,Camilla,1796,1790,1700,courtship
+Sir_Hugh_Tyrold,8.621369999999999,"guardian,,moneyed",female,Camilla,1796,1790,1700,courtship
+Mr_Hardman,1.952465,guardian,female,Inheritance of Evil,1849,1840,1800,gothic
+Mr_Rochester,2.802108,"heir, guardian, suitor",female,JaneEyre,1847,1840,1800,gothic
+Silas_Ruthyn,1.245204,"unmoneyed,,guardian",male,LeFanu_Uncle_Silas,1864,1860,1800,gothic
+Frederick_Fairlie,1.249896,guardian,male,TheWomaninWhite,1860,1860,1800,gothic
+Sir_Charles,2.817431,guardian,female,TheFemaleQuixote,1752,1750,1700,courtship
+Madame_Montoni,1.013528,"guardian,,moneyed",female,TheMysteriesofUdolpho,1794,1790,1700,gothic
+Mr_Harrel,4.8211080000000015,"guardian,,moneyed",female,Cecilia,1782,1780,1700,courtship
+Briggs,0.538611,guardian,female,Cecilia,1782,1780,1700,courtship
+Mr_Delvile,0.6287229999999999,guardian,female,Cecilia,1782,1780,1700,courtship
+John_Jarndyce,1.780318,guardian,male,BleakHouse,1853,1850,1800,realism
+Miles,3.034769,"guardian,,moneyed",male,Lucretia,1846,1840,1800,gothic

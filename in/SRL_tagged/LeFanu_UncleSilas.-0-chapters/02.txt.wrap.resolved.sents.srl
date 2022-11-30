@@ -1,0 +1,288 @@
+            XXV	       NNP	      S-NP	         O	              -	(S1(NP(NP*)
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+           HEAR	       VBP	      S-VP	         O	           HEAR	       S-V	(VP*
+           FROM	        IN	      S-PP	         O	              -	      B-A1	(PP*
+          UNCLE	       NNP	      B-NP	         O	              -	      I-A1	(NP*
+          SILAS	       NNP	      I-NP	     B-PER	              -	      I-A1	*
+           XXVI	       NNP	      E-NP	     E-PER	              -	      E-A1	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP(NP*
+          STORY	        NN	      E-NP	         O	              -	*)
+             OF	        IN	      S-PP	         O	              -	(PP*
+          UNCLE	       NNP	      B-NP	         O	              -	(NP*
+          SILAS	       NNP	      I-NP	     B-PER	              -	*
+          XXVII	       NNP	      E-NP	     E-PER	              -	*))
+              .	         .	         O	         O	              -	*))
+
+           MORE	       JJR	      S-NP	         O	              -	(S1(NP(NP*)
+          ABOUT	        IN	      S-PP	         O	              -	(PP*
+            TOM	       NNP	      B-NP	         O	              -	(NP(NP*
+         CHARKE	       NNP	      E-NP	     S-PER	              -	*
+             'S	       POS	      B-NP	         O	              -	*)
+        SUICIDE	        NN	      I-NP	         O	              -	*
+         XXVIII	       NNP	      E-NP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A1	(S1(S(NP*)
+             AM	       VBP	      B-VP	         O	              -	         O	(VP*
+      PERSUADED	       VBN	      E-VP	         O	      PERSUADED	       S-V	(VP*
+           XXIX	       NNP	      S-NP	         O	              -	      S-A1	(NP*)))
+              .	         .	         O	         O	              -	         O	*))
+
+            HOW	       WRB	    S-ADVP	         O	              -	S-R-AM-MNR	(S1(SBAR(WHADVP*)
+            THE	        DT	      B-NP	         O	              -	      B-A0	(S(NP*
+     AMBASSADOR	        NN	      E-NP	         O	              -	      E-A0	*)
+          FARED	       VBD	      S-VP	         O	          FARED	       S-V	(VP*
+            XXX	       NNP	      S-NP	         O	              -	      S-A1	(NP*))
+              .	         .	         O	         O	              -	         O	*)))
+
+             ON	        IN	      S-PP	         O	              -	(S1(FRAG(PP*
+            THE	        DT	      B-NP	         O	              -	(NP*
+           ROAD	        NN	      I-NP	         O	              -	*))
+           XXXI	       NNP	      E-NP	         O	              -	(NP*)
+              .	         .	         O	         O	              -	*))
+
+        BARTRAM	       NNP	      S-NP	     S-ORG	              -	(S1(NP(NP*)
+              -	         :	         O	         O	              -	*
+          HAUGH	       NNP	      B-NP	     B-PER	              -	(NP*
+          XXXII	       NNP	      E-NP	     E-PER	              -	*
+              .	         .	         O	         O	              -	*)))
+
+          UNCLE	       NNP	      B-NP	         O	              -	(S1(NP(NP*
+          SILAS	       NNP	      E-NP	     S-PER	              -	*)
+              .	         .	         O	         O	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP*
+       WINDMILL	       NNP	      I-NP	    B-MISC	              -	*
+           WOOD	       NNP	      I-NP	    I-MISC	              -	*
+          XXXIV	       NNP	      E-NP	    E-MISC	              -	*
+              .	         .	         O	         O	              -	*))
+
+         ZAMIEL	       NNP	      B-NP	         O	              -	(S1(NP*
+           XXXV	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+             WE	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+          VISIT	       VBP	      S-VP	         O	          VISIT	       S-V	(VP*
+              A	        DT	      B-NP	         O	              -	      B-A1	(NP*
+           ROOM	        NN	      E-NP	         O	              -	      I-A1	*)
+             IN	        IN	      S-PP	         O	              -	      I-A1	(PP*
+            THE	        DT	      B-NP	         O	              -	      I-A1	(NP*
+         SECOND	        JJ	      I-NP	         O	              -	      I-A1	*
+         STOREY	       NNP	      I-NP	         O	              -	      I-A1	*
+          XXXVI	       NNP	      E-NP	         O	              -	      E-A1	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+             AN	        DT	      B-NP	         O	              -	(S1(NP(NP*
+        ARRIVAL	        NN	      E-NP	         O	              -	*)
+             AT	        IN	      S-PP	         O	              -	(PP*
+           DEAD	        JJ	    S-ADJP	         O	              -	(ADJP*
+             OF	        IN	      S-PP	         O	              -	(PP*
+          NIGHT	       NNP	      B-NP	         O	              -	(NP*
+         XXXVII	       NNP	      E-NP	         O	              -	*))))
+              .	         .	         O	         O	              -	*))
+
+         DOCTOR	       NNP	      B-NP	         O	              -	      B-A0	(S1(S(NP*
+        BRYERLY	       NNP	      E-NP	     S-PER	              -	      E-A0	*)
+        EMERGES	       VBZ	      S-VP	         O	        EMERGES	       S-V	(VP*
+        XXXVIII	       NNP	      S-NP	         O	              -	      S-A1	(NP*))
+              .	         .	         O	         O	              -	         O	*))
+
+              A	        DT	      B-NP	         O	              -	(S1(NP*
+       MIDNIGHT	        NN	      I-NP	         O	              -	*
+      DEPARTURE	        NN	      I-NP	         O	              -	*
+          XXXIX	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+         COUSIN	        NN	      B-NP	         O	              -	(S1(S(NP(NP*
+         MONICA	       NNP	      I-NP	     S-PER	              -	*)
+            AND	        CC	      I-NP	         O	              -	*
+          UNCLE	       NNP	      I-NP	         O	              -	(NP*
+          SILAS	       NNP	      I-NP	     S-PER	              -	*))
+           MEET	       NNP	      I-NP	         O	              -	(VP*
+             XL	       NNP	      E-NP	     S-LOC	              -	(NP*))
+              .	         .	         O	         O	              -	*))
+
+             IN	        IN	      S-PP	         O	              -	         O	(S1(X(SBAR(WHPP*
+          WHICH	       WDT	      S-NP	         O	              -	         O	(WHNP*))
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S(NP*)
+           MAKE	       VBP	      S-VP	         O	           MAKE	       S-V	(VP*
+        ANOTHER	        DT	      B-NP	         O	              -	      B-A1	(NP(NP*
+         COUSIN	        NN	      E-NP	         O	              -	      I-A1	*
+             'S	       POS	      B-NP	         O	              -	      I-A1	*)
+   ACQUAINTANCE	        NN	      I-NP	         O	              -	      I-A1	*
+            XLI	       NNP	      E-NP	         O	              -	      E-A1	*))))
+              .	         .	         O	         O	              -	         O	*))
+
+             MY	      PRP$	      B-NP	         O	              -	(S1(NP*
+         COUSIN	        NN	      I-NP	         O	              -	*
+         DUDLEY	       NNP	      I-NP	     B-PER	              -	*
+           XLII	       NNP	      E-NP	     E-PER	              -	*
+              .	         .	         O	         O	              -	*))
+
+      ELVERSTON	       NNP	      B-NP	         O	              -	(S1(NP(NP*
+            AND	        CC	      I-NP	         O	              -	*
+      ELVERSTON	       NNP	      I-NP	         O	              -	*
+         PEOPLE	       NNP	      I-NP	         O	              -	*
+          XLIII	       NNP	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+           NEWS	        NN	      S-NP	     S-ORG	              -	(S1(NP(NP*)
+             AT	        IN	      S-PP	         O	              -	(PP*
+        BARTRAM	       NNP	      B-NP	     B-LOC	              -	(NP*
+           GATE	       NNP	      I-NP	     I-LOC	              -	*
+           XLIV	       NNP	      E-NP	     E-LOC	              -	*))
+              .	         .	         O	         O	              -	*))
+
+              A	        DT	      B-NP	         O	              -	      B-A1	(S1(S(NP*
+         FRIEND	        NN	      E-NP	         O	              -	      E-A1	*)
+         ARISES	       VBZ	      S-VP	         O	         ARISES	       S-V	(VP*
+            XLV	       NNP	      S-NP	         O	              -	      S-A1	(NP*))
+              .	         .	         O	         O	              -	         O	*))
+
+              A	        DT	      B-NP	         O	              -	(S1(NP(NP*
+        CHAPTER	        NN	      E-NP	         O	              -	*)
+              -	         :	         O	         O	              -	*
+           FULL	        JJ	      B-NP	         O	              -	(ADJP*
+             OF	        IN	      I-NP	         O	              -	(PP*
+         LOVERS	       NNS	      I-NP	         O	              -	(NP*
+           XLVI	       NNP	      E-NP	         O	              -	*)))
+              .	         .	         O	         O	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP*
+         RIVALS	      NNPS	      I-NP	         O	              -	*
+          XLVII	       NNP	      E-NP	     S-PER	              -	*
+              .	         .	         O	         O	              -	*))
+
+         DOCTOR	       NNP	      B-NP	         O	              -	      B-A0	(S1(S(NP*
+        BRYERLY	       NNP	      E-NP	     S-PER	              -	      E-A0	*)
+      REAPPEARS	       VBZ	      S-VP	         O	      REAPPEARS	       S-V	(VP*
+         XLVIII	       NNP	      S-NP	         O	              -	      S-A1	(NP*))
+              .	         .	         O	         O	              -	         O	*))
+
+       QUESTION	        NN	      S-NP	         O	              -	         O	(S1(S(NP*)
+            AND	        CC	         O	         O	              -	         O	*
+         ANSWER	        VB	      S-VP	         O	         ANSWER	       S-V	(VP*
+           XLIX	       NNP	      S-NP	         O	              -	      S-A1	(NP*))
+              .	         .	         O	         O	              -	         O	*))
+
+             AN	        DT	      B-NP	         O	              -	(S1(S(NP*
+     APPARITION	        NN	      I-NP	         O	              -	*)
+             L.	       NNP	      I-NP	         O	              -	(VP*
+          MILLY	       NNP	      E-NP	     S-PER	              -	(NP(NP*
+             'S	       POS	      B-NP	         O	              -	*)
+       FAREWELL	       NNP	      I-NP	         O	              -	*
+             LI	       NNP	      E-NP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+          SARAH	       NNP	      B-NP	     B-PER	              -	      B-A1	(S1(S(NP*
+        MATILDA	       NNP	      E-NP	     E-PER	              -	      E-A1	*)
+          COMES	       VBZ	      S-VP	         O	          COMES	       S-V	(VP*
+             TO	        TO	      S-PP	         O	              -	      B-A2	(PP*
+          LIGHT	       NNP	      B-NP	         O	              -	      I-A2	(NP*
+            LII	       NNP	      E-NP	         O	              -	      E-A2	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP(NP*
+        PICTURE	        NN	      E-NP	         O	              -	*)
+             OF	        IN	      S-PP	         O	              -	(PP*
+              A	        DT	      B-NP	         O	              -	(NP*
+           WOLF	       NNP	      I-NP	     B-LOC	              -	*
+           LIII	       NNP	      E-NP	     E-LOC	              -	*))
+              .	         .	         O	         O	              -	*))
+
+             AN	        DT	      B-NP	         O	              -	(S1(NP*
+            ODD	        JJ	      I-NP	         O	              -	*
+       PROPOSAL	        NN	      I-NP	         O	              -	*
+            LIV	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+             IN	        IN	      S-PP	         O	              -	(S1(FRAG(PP*
+         SEARCH	        NN	      S-NP	         O	              -	(NP(NP*)
+             OF	        IN	      S-PP	         O	              -	(PP*
+            MR.	       NNP	      B-NP	         O	              -	(NP(NP*
+         CHARKE	       NNP	      E-NP	     S-PER	              -	*
+             'S	       POS	      B-NP	         O	              -	*)
+       SKELETON	        NN	      I-NP	         O	              -	*
+             LV	       NNP	      E-NP	         O	              -	*))))
+              .	         .	         O	         O	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP(NP*
+           FOOT	        NN	      E-NP	         O	              -	*)
+             OF	        IN	      S-PP	         O	              -	(PP*
+       HERCULES	       NNP	      B-NP	     B-LOC	              -	(NP*
+            LVI	       NNP	      E-NP	     E-LOC	              -	*))
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+       CONSPIRE	       VBP	      S-VP	         O	       CONSPIRE	       S-V	(VP*
+           LVII	       NNP	      S-NP	         O	              -	      S-A1	(NP*))
+              .	         .	         O	         O	              -	         O	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP(NP*
+         LETTER	        NN	      I-NP	         O	              -	*)
+          LVIII	       NNP	      E-NP	         O	              -	(NP*)
+              .	         .	         O	         O	              -	*))
+
+           LADY	       NNP	      B-NP	         O	              -	(S1(NP(NP(NP*
+        KNOLLYS	       NNP	      E-NP	     S-ORG	              -	*
+              '	       POS	      B-NP	         O	              -	*)
+       CARRIAGE	       NNP	      I-NP	         O	              -	*
+            LIX	       NNP	      E-NP	     S-ORG	              -	*)
+              .	         .	         O	         O	              -	*))
+
+              A	        DT	      B-NP	         O	              -	(S1(NP*
+         SUDDEN	        JJ	      I-NP	         O	              -	*
+      DEPARTURE	        NN	      I-NP	         O	              -	*
+             LX	        NN	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP*
+        JOURNEY	       NNP	      I-NP	         O	              -	*
+            LXI	       NNP	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+            OUR	      PRP$	      B-NP	         O	              -	(S1(NP(NP*
+            BED	        NN	      I-NP	         O	              -	*)
+              -	         :	      I-NP	         O	              -	*
+        CHAMBER	       NNP	      I-NP	         O	              -	(NP*
+           LXII	       NNP	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+              A	        DT	      B-NP	         O	              -	      B-A0	(S1(S(NP*
+     WELL-KNOWN	        JJ	      I-NP	         O	              -	      I-A0	*
+           FACE	        NN	      E-NP	         O	              -	      E-A0	*)
+          LOOKS	       VBZ	      S-VP	         O	          LOOKS	       S-V	(VP*
+             IN	        IN	      S-PP	         O	              -	      B-A1	(PP*
+          LXIII	       NNP	      S-NP	         O	              -	      E-A1	(NP*)))
+              .	         .	         O	         O	              -	         O	*))
+
+         SPICED	       VBN	      B-NP	         O	         SPICED	       S-V	(S1(NP*
+         CLARET	       NNP	      I-NP	         O	              -	      S-A1	*
+           LXIV	       NNP	      E-NP	         O	              -	         O	*
+              .	         .	         O	         O	              -	         O	*))
+
+            THE	        DT	      B-NP	         O	              -	(S1(NP(NP*
+           HOUR	        NN	      E-NP	         O	              -	*)
+             OF	        IN	      S-PP	         O	              -	(PP*
+          DEATH	        NN	      B-NP	         O	              -	(NP*))
+            LXV	        NN	      E-NP	         O	              -	(ADJP*)
+              .	         .	         O	         O	              -	*))
+
+             IN	        IN	      S-PP	         O	              -	(S1(X(PP*
+            THE	        DT	      B-NP	         O	              -	(NP*
+            OAK	       NNP	      I-NP	         O	              -	*
+        PARLOUR	       NNP	      I-NP	         O	              -	*
+     CONCLUSION	       NNP	      I-NP	         O	              -	*
+          UNCLE	       NNP	      I-NP	         O	              -	*
+          SILAS	       NNP	      E-NP	     S-PER	              -	*))
+              A	       NNP	      B-NP	         O	              -	(NP(NP*
+           Tale	       NNP	      E-NP	         O	              -	*)
+             of	        IN	      S-PP	         O	              -	(PP*
+        Bartram	       NNP	      S-NP	     S-PER	              -	(NP(NP*)
+              -	         :	         O	         O	              -	*
+          Haugh	       NNP	         O	     S-PER	              -	(NP*))))))
+

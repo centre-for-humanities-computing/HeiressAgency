@@ -1,0 +1,250 @@
+           home	        NN	      S-NP	         O	              -	         O	         O	         O	(S1(S(NP*)
+             is	       VBZ	      S-VP	         O	              -	         O	         O	         O	(VP*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	(SBAR(S(NP(NP*
+         resort	        NN	      E-NP	         O	              -	         O	         O	         O	*)
+             Of	        IN	      S-PP	    S-MISC	              -	         O	         O	         O	(PP*
+           love	        NN	      S-NP	         O	              -	         O	         O	         O	(NP(NP*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	*
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	(PP*
+            joy	        NN	      S-NP	         O	              -	         O	      S-A1	         O	(NP(NP*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	*
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	(PP*
+          peace	        NN	      B-NP	         O	              -	         O	         O	         O	(NP(NP*)
+            and	        CC	      I-NP	         O	              -	         O	         O	         O	*
+         plenty	        NN	      E-NP	         O	              -	         O	      S-A1	      B-A0	(NP*)
+              ,	         ,	         O	         O	              -	         O	         O	      I-A0	*
+          where	       WRB	    S-ADVP	         O	              -	         O	    S-R-A0	      I-A0	(SBAR(WHADVP*)
+              ,	         ,	         O	         O	              -	         O	         O	      I-A0	*
+     Supporting	       VBG	      B-VP	         O	     Supporting	       S-V	         O	      I-A0	(S(VP*
+            and	        CC	      I-VP	         O	              -	         O	         O	      I-A0	*
+      supported	       VBN	      E-VP	         O	      supported	         O	       S-V	      I-A0	*
+              ,	         ,	         O	         O	              -	         O	         O	      I-A0	*
+         polish	        JJ	      B-NP	         O	              -	         O	         O	      I-A0	*))))))))))
+             'd	       VBD	      I-NP	         O	              -	         O	         O	      I-A0	(VP*
+        friends	       NNS	      E-NP	         O	              -	         O	         O	      I-A0	(SBAR(S(NP(NP*)
+            And	        CC	         O	         O	              -	         O	         O	      I-A0	*
+           dear	        JJ	      B-NP	         O	              -	         O	         O	      I-A0	(NP*
+      relations	       NNS	      E-NP	         O	              -	         O	         O	      E-A0	*))
+         mingle	       VBP	      S-VP	         O	         mingle	         O	         O	       S-V	(VP*
+           into	        IN	      S-PP	         O	              -	         O	         O	      B-A1	(PP*
+          bliss	        NN	      S-NP	         O	              -	         O	         O	      E-A1	(NP*)))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	*))
+
+              *	        FW	      B-NP	         O	              -	      B-A1	(S1(S(NP(NP*
+              *	        FW	      I-NP	         O	              -	      I-A1	*
+        Thomson	       NNP	      E-NP	     B-ORG	              -	      I-A1	*)
+             On	        IN	      S-PP	     E-ORG	              -	      I-A1	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A1	(NP(NP*
+       pleasant	        JJ	      I-NP	         O	              -	      I-A1	*
+          banks	       NNS	      E-NP	         O	              -	      I-A1	*)
+             of	        IN	      S-PP	         O	              -	      I-A1	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A1	(NP*
+        Garonne	       NNP	      E-NP	     S-LOC	              -	      E-A1	*))))
+              ,	         ,	         O	         O	              -	         O	*
+             in	        IN	      S-PP	         O	              -	  B-AM-LOC	(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-LOC	(NP(NP*
+       province	        NN	      E-NP	         O	              -	  I-AM-LOC	*)
+             of	        IN	      S-PP	         O	              -	  I-AM-LOC	(PP*
+        Gascony	       NNP	      S-NP	     S-LOC	              -	  E-AM-LOC	(NP*))))
+              ,	         ,	         O	         O	              -	         O	*)
+          stood	       VBD	      S-VP	         O	          stood	       S-V	(VP*
+              ,	         ,	         O	         O	              -	         O	*
+             in	        IN	      S-PP	         O	              -	  B-AM-TMP	(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-TMP	(NP*
+           year	        NN	      I-NP	         O	              -	  I-AM-TMP	*
+           1584	        CD	      E-NP	         O	              -	  E-AM-TMP	*))
+              ,	         ,	         O	         O	              -	         O	*
+            the	        DT	      B-NP	         O	              -	         O	(NP(NP*
+        chateau	        NN	      E-NP	         O	              -	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	(PP*
+       Monsieur	       NNP	      B-NP	     B-PER	              -	         O	(NP*
+            St.	       NNP	      I-NP	     I-PER	              -	         O	*
+         Aubert	       NNP	      E-NP	     E-PER	              -	         O	*))))
+              .	         .	         O	         O	              -	         O	*))
+
+           From	        IN	      S-PP	         O	              -	      B-A3	         O	(S1(S(PP*
+            the	        DT	      B-NP	         O	              -	      I-A3	         O	(NP(NP*
+        chateau	        NN	      E-NP	         O	              -	      I-A3	         O	*)
+             of	        IN	      S-PP	         O	              -	      I-A3	         O	(PP*
+       Monsieur	       NNP	      B-NP	     B-ORG	              -	      I-A3	         O	(NP*
+            St.	       NNP	      I-NP	     I-ORG	              -	      I-A3	         O	*
+         Aubert	       NNP	      I-NP	     E-ORG	              -	      I-A3	         O	*
+        windows	       NNS	      E-NP	         O	              -	      E-A3	         O	*))))
+           were	       VBD	      B-VP	         O	              -	         O	         O	(VP*
+           seen	       VBN	      E-VP	         O	           seen	       S-V	         O	(VP*
+            the	        DT	      B-NP	         O	              -	      B-A1	      B-A1	(S(NP(NP*
+       pastoral	        JJ	      I-NP	         O	              -	      I-A1	      I-A1	*
+     landscapes	       NNS	      E-NP	         O	              -	      I-A1	      I-A1	*)
+             of	        IN	      S-PP	         O	              -	      I-A1	      I-A1	(PP*
+        Guienne	       NNP	      B-NP	     S-LOC	              -	      I-A1	      I-A1	(NP*
+            and	        CC	      I-NP	         O	              -	      I-A1	      I-A1	*
+        Gascony	       NNP	      E-NP	     S-LOC	              -	      I-A1	      E-A1	*)))
+     stretching	       VBG	      S-VP	         O	     stretching	      I-A1	       S-V	(VP*
+          along	        IN	      S-PP	         O	              -	      I-A1	  B-AM-LOC	(UCP(PP*
+            the	        DT	      B-NP	         O	              -	      I-A1	  I-AM-LOC	(NP*
+          river	        NN	      E-NP	         O	              -	      I-A1	  E-AM-LOC	*))
+              ,	         ,	         O	         O	              -	      I-A1	         O	*
+            gay	        JJ	    S-ADJP	         O	              -	      I-A1	  B-AM-ADV	(ADJP*
+           with	        IN	      S-PP	         O	              -	      I-A1	  I-AM-ADV	(PP*
+      luxuriant	        JJ	      B-NP	         O	              -	      I-A1	  I-AM-ADV	(NP*
+          woods	       NNS	      I-NP	         O	              -	      I-A1	  I-AM-ADV	*
+            and	        CC	      I-NP	         O	              -	      I-A1	  I-AM-ADV	*
+           vine	        NN	      E-NP	         O	              -	      I-A1	  I-AM-ADV	*)))
+              ,	         ,	         O	         O	              -	      I-A1	  I-AM-ADV	*
+            and	        CC	         O	         O	              -	      I-A1	  I-AM-ADV	*
+    plantations	       NNS	      S-NP	         O	              -	      I-A1	  I-AM-ADV	(NP(NP*)
+             of	        IN	      S-PP	         O	              -	      I-A1	  I-AM-ADV	(PP*
+         olives	       NNS	      S-NP	         O	              -	      E-A1	  E-AM-ADV	(NP*))))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+             To	        TO	      S-PP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(S1(S(PP*
+            the	        DT	      B-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+          south	        NN	      E-NP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*
+            the	        DT	      B-NP	         O	              -	      B-A1	         O	         O	         O	         O	         O	         O	         O	         O	(NP*
+           view	        NN	      E-NP	         O	              -	      E-A1	         O	         O	         O	         O	         O	         O	         O	         O	*)
+            was	       VBD	      B-VP	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+        bounded	       VBN	      E-VP	         O	        bounded	       S-V	         O	         O	         O	         O	         O	         O	         O	         O	(VP(VP*
+             by	        IN	      S-PP	         O	              -	      B-A0	         O	         O	         O	         O	         O	         O	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	(NP(NP*
+       majestic	        JJ	      I-NP	         O	              -	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+       Pyrenees	       NNP	      E-NP	    S-MISC	              -	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+          whose	       WP$	      B-NP	         O	              -	      I-A0	    B-R-A1	    B-R-A0	         O	    B-R-A1	         O	         O	         O	         O	(SBAR(WHNP*
+        summits	       NNS	      E-NP	         O	              -	      I-A0	    E-R-A1	    E-R-A0	         O	    E-R-A1	         O	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+         veiled	       VBN	      S-VP	         O	         veiled	      I-A0	       S-V	         O	         O	         O	         O	         O	         O	         O	(S(VP(VP*
+             in	        IN	      S-PP	         O	              -	      I-A0	  B-AM-LOC	         O	         O	         O	         O	         O	         O	         O	(PP*
+         clouds	       NNS	      S-NP	         O	              -	      I-A0	  E-AM-LOC	         O	         O	         O	         O	         O	         O	         O	(NP*)))
+              ,	         ,	         O	         O	              -	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+             or	        CC	         O	         O	              -	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+     exhibiting	       VBG	      S-VP	         O	     exhibiting	      I-A0	         O	       S-V	         O	         O	         O	         O	         O	         O	(VP*
+          awful	        JJ	      B-NP	         O	              -	      I-A0	         O	      B-A1	         O	         O	         O	         O	         O	         O	(NP*
+          forms	       NNS	      E-NP	         O	              -	      I-A0	         O	      E-A1	         O	         O	         O	         O	         O	         O	*)))))))
+              ,	         ,	         O	         O	              -	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+           seen	       VBN	      S-VP	         O	           seen	      I-A0	         O	         O	       S-V	         O	         O	         O	         O	         O	(VP*)
+              ,	         ,	         O	         O	              -	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	      I-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+           lost	       VBN	      S-VP	         O	           lost	      I-A0	         O	         O	         O	       S-V	         O	         O	         O	         O	(VP*
+          again	        RB	    S-ADVP	         O	              -	      I-A0	         O	         O	         O	  S-AM-TMP	         O	         O	         O	         O	(ADVP*))
+              ,	         ,	         O	         O	              -	      E-A0	         O	         O	         O	         O	         O	         O	         O	         O	*
+             as	        IN	    S-SBAR	         O	              -	  B-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	(SBAR*
+            the	        DT	      B-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	      B-A1	         O	         O	         O	(S(NP(NP(NP*
+        partial	        JJ	      I-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	      I-A1	         O	         O	         O	*
+        vapours	       NNS	      E-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	      E-A1	         O	         O	         O	*)
+         rolled	       VBN	      S-VP	         O	         rolled	  I-AM-TMP	         O	         O	         O	         O	       S-V	         O	         O	         O	(VP*
+          along	        RB	    S-ADVP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	  S-AM-DIR	         O	         O	         O	(ADVP*)))
+              ,	         ,	         O	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	*)
+           were	       VBD	      S-VP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	(VP*
+      sometimes	        RB	    B-ADJP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	(ADVP*)
+         barren	        JJ	    E-ADJP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	(ADJP*)))
+              ,	         ,	         O	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	*
+        gleamed	       VBD	      S-VP	         O	        gleamed	  I-AM-TMP	         O	         O	         O	         O	         O	       S-V	         O	         O	(S(VP(VP*
+        through	        IN	      S-PP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	      B-A1	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	      I-A1	         O	         O	(NP(NP*
+           blue	        JJ	      I-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	      I-A1	         O	         O	*
+          tinge	        NN	      E-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	      I-A1	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	      I-A1	         O	         O	(PP*
+            air	        NN	      S-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	      E-A1	         O	         O	(NP*)))))
+              ,	         ,	         O	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	*
+            and	        CC	         O	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	         O	         O	*
+      sometimes	        RB	      B-VP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	  S-AM-TMP	         O	(VP(ADVP*)
+        frowned	       VBN	      E-VP	         O	        frowned	  I-AM-TMP	         O	         O	         O	         O	         O	         O	       S-V	         O	*
+           with	        IN	      S-PP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	      B-A1	         O	(PP*
+        forests	       NNS	      S-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	      I-A1	      B-A1	(NP(NP*)
+             of	        IN	      S-PP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	      I-A1	      I-A1	(PP*
+         gloomy	        JJ	      B-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	      I-A1	      I-A1	(NP*
+           pine	        NN	      E-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	      I-A1	      E-A1	*)))))))))
+              ,	         ,	         O	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	      I-A1	         O	*
+           that	       WDT	      S-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	      I-A1	    S-R-A1	(SBAR(WHNP*)
+          swept	       VBD	      S-VP	         O	          swept	  I-AM-TMP	         O	         O	         O	         O	         O	         O	      I-A1	       S-V	(S(VP*
+       downward	        RB	    S-ADVP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	      I-A1	  B-AM-DIR	(ADVP*)
+             to	        TO	      S-PP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	      I-A1	  I-AM-DIR	(PP*
+          their	      PRP$	      B-NP	         O	              -	  I-AM-TMP	         O	         O	         O	         O	         O	         O	      I-A1	  I-AM-DIR	(NP*
+           base	        NN	      E-NP	         O	              -	  E-AM-TMP	         O	         O	         O	         O	         O	         O	      E-A1	  E-AM-DIR	*)))))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	         O	         O	         O	         O	*))
+
+          These	        DT	      B-NP	         O	              -	      B-A1	         O	         O	         O	(S1(S(NP*
+     tremendous	        JJ	      I-NP	         O	              -	      I-A1	         O	         O	         O	*
+     precipices	       NNS	      E-NP	         O	              -	      E-A1	         O	         O	         O	*)
+           were	       VBD	      B-VP	         O	              -	         O	         O	         O	         O	*
+     contrasted	       VBN	      E-VP	         O	     contrasted	       S-V	         O	         O	         O	(VP*
+             by	        IN	      S-PP	         O	              -	      B-A0	         O	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A0	         O	         O	         O	(NP(NP*
+           soft	        JJ	      I-NP	         O	              -	      I-A0	         O	         O	         O	*
+          green	        NN	      E-NP	         O	              -	      I-A0	         O	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	      I-A0	         O	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A0	      B-A1	         O	         O	(NP(NP*
+       pastures	       NNS	      I-NP	         O	              -	      I-A0	      I-A1	         O	         O	*
+            and	        CC	      I-NP	         O	              -	      I-A0	      I-A1	         O	         O	*
+          woods	       NNS	      E-NP	         O	              -	      I-A0	      E-A1	         O	         O	*)
+           that	       WDT	      S-NP	         O	              -	      I-A0	    S-R-A1	         O	         O	(SBAR(WHNP*)
+           hung	       VBD	      S-VP	         O	           hung	      I-A0	       S-V	         O	         O	(S(VP*
+           upon	        IN	      S-PP	         O	              -	      I-A0	      B-A2	         O	         O	(PP*
+          their	      PRP$	      B-NP	         O	              -	      I-A0	      I-A2	         O	         O	(NP*
+         skirts	       NNS	      E-NP	         O	              -	      I-A0	      E-A2	         O	         O	*))))))))))
+              ;	         :	         O	         O	              -	      I-A0	         O	         O	         O	*
+          among	        IN	      S-PP	         O	              -	      I-A0	         O	         O	         O	(PP*
+          whose	       VBG	      B-NP	         O	              -	      I-A0	         O	         O	         O	(NP*
+         flocks	       NNS	      E-NP	         O	              -	      I-A0	         O	         O	         O	*))
+              ,	         ,	         O	         O	              -	      I-A0	         O	         O	         O	*
+            and	        CC	         O	         O	              -	      I-A0	         O	         O	         O	*
+          herds	       NNS	      S-NP	         O	              -	      I-A0	         O	         O	         O	(NX*)
+              ,	         ,	         O	         O	              -	      I-A0	         O	         O	         O	*
+            and	        CC	         O	         O	              -	      I-A0	         O	         O	         O	*
+         simple	        JJ	      B-NP	         O	              -	      I-A0	         O	         O	         O	(NP*
+       cottages	       NNS	      E-NP	         O	              -	      I-A0	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	      I-A0	         O	         O	         O	*
+            the	        DT	      B-NP	         O	              -	      I-A0	         O	         O	         O	(NP*
+            eye	        NN	      E-NP	         O	              -	      I-A0	         O	         O	         O	*)
+              ,	         ,	         O	         O	              -	      I-A0	         O	         O	         O	*
+          after	        IN	      S-PP	         O	              -	      I-A0	         O	         O	         O	*
+         having	       VBG	      B-VP	         O	              -	      I-A0	         O	         O	         O	*
+         scaled	       VBN	      E-VP	         O	         scaled	      I-A0	         O	       S-V	         O	*
+            the	        DT	      B-NP	         O	              -	      I-A0	         O	      B-A1	         O	(NP*
+         cliffs	       NNS	      E-NP	         O	              -	      I-A0	         O	      I-A1	         O	*)
+          above	        IN	    S-ADVP	         O	              -	      I-A0	         O	      E-A1	         O	(ADVP*)
+              ,	         ,	         O	         O	              -	      I-A0	         O	         O	         O	*
+      delighted	        JJ	    S-ADJP	         O	              -	      I-A0	         O	         O	         O	(ADJP*
+             to	        TO	      B-VP	         O	              -	      I-A0	         O	         O	         O	(S(VP*
+         repose	        VB	      E-VP	         O	         repose	      E-A0	         O	         O	       S-V	(VP*))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	*))
+
+             To	        TO	      S-PP	         O	              -	  B-AM-ADV	  B-AM-DIS	(S1(S(S(PP(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-ADV	  I-AM-DIS	(NP*
+          north	        NN	      E-NP	         O	              -	  I-AM-ADV	  I-AM-DIS	*))
+              ,	         ,	         O	         O	              -	  I-AM-ADV	  I-AM-DIS	*
+            and	        CC	         O	         O	              -	  I-AM-ADV	  I-AM-DIS	*
+             to	        TO	      S-PP	         O	              -	  I-AM-ADV	  I-AM-DIS	(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-ADV	  I-AM-DIS	(NP*
+           east	        NN	      E-NP	         O	              -	  E-AM-ADV	  E-AM-DIS	*)))
+              ,	         ,	         O	         O	              -	         O	         O	*
+            the	        DT	      B-NP	         O	              -	      B-A1	         O	(NP(NP*
+         plains	       NNS	      E-NP	         O	              -	      I-A1	         O	*)
+             of	        IN	      S-PP	         O	              -	      I-A1	         O	(PP*
+        Guienne	       NNP	      B-NP	     S-LOC	              -	      I-A1	         O	(NP*
+            and	        CC	      I-NP	         O	              -	      I-A1	         O	*
+      Languedoc	       NNP	      E-NP	     S-LOC	              -	      E-A1	         O	*)))
+           were	       VBD	      B-VP	         O	              -	         O	         O	(VP*
+           lost	       VBN	      E-VP	         O	           lost	       S-V	         O	(VP*
+             in	        IN	      S-PP	         O	              -	  B-AM-LOC	         O	(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-LOC	         O	(NP(NP*
+           mist	        NN	      E-NP	         O	              -	  I-AM-LOC	         O	*)
+             of	        IN	      S-PP	         O	              -	  I-AM-LOC	         O	(PP*
+       distance	        NN	      S-NP	         O	              -	  E-AM-LOC	         O	(NP*)))))))
+              ;	         :	         O	         O	              -	         O	         O	*
+             on	        IN	      S-PP	         O	              -	         O	  B-AM-LOC	(S(PP*
+            the	        DT	      B-NP	         O	              -	         O	  I-AM-LOC	(NP*
+           west	        NN	      E-NP	         O	              -	         O	  E-AM-LOC	*))
+              ,	         ,	         O	         O	              -	         O	         O	*
+        Gascony	       NNP	      S-NP	     S-LOC	              -	         O	      S-A1	(NP*)
+            was	       VBD	      B-VP	         O	              -	         O	         O	(VP*
+        bounded	       VBN	      E-VP	         O	        bounded	         O	       S-V	(VP*
+             by	        IN	      S-PP	         O	              -	         O	      B-A0	(PP*
+            the	        DT	      B-NP	         O	              -	         O	      I-A0	(NP(NP*
+         waters	       NNS	      E-NP	         O	              -	         O	      I-A0	*)
+             of	        IN	      S-PP	         O	              -	         O	      I-A0	(PP*
+         Biscay	       NNP	      S-NP	     S-LOC	              -	         O	      E-A0	(NP*)))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+

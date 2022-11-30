@@ -1,0 +1,44 @@
+name,percentage,role,author,novel,year,decade,century,genre
+Mrs_Harris,0.493689,moneyed,female,Amelia,1751,1750,1700,courtship
+Lady_Dedlock,0.366739,moneyed,male,Bleak House,1853,1850,1800,realism
+Mrs_Arlbery,4.64591,moneyed,female,Camilla,1796,1790,1700,courtship
+Sir_Hugh_Tyrold,15.266775,"guardian, moneyed",female,Camilla,1796,1790,1700,courtship
+Sir_Sedley,2.797396,"suitor, moneyed",female,Camilla,1796,1790,1700,courtship
+Mrs_Harel,3.272008,moneyed,female,Cecilia,1782,1780,1700,courtship
+Mr_Harrel,6.272271,"guardian, moneyed",female,Cecilia,1782,1780,1700,courtship
+Augusta,1.944564,moneyed,female,Cecilia,1782,1780,1700,courtship
+Henry_Woodhouse,3.415133,"moneyed, father",female,Emma,1815,1810,1800,courtship
+Lady_Adelina,2.327978,moneyed,female,Emmeline,1788,1780,1700,gothic
+Lady_Montreville,0.303435,moneyed,female,Emmeline,1788,1780,1700,gothic
+Lord_Fitz-Edward,5.623351,moneyed,female,Emmeline,1788,1780,1700,gothic
+Mrs_Stafford,6.505679,moneyed,female,Emmeline,1788,1780,1700,gothic
+Miss_Havisham,0.024309,moneyed,male,GreatExpectations,1861,1860,1800,realism
+Lady_Elizabeth,3.985605000000001,moneyed,male,HarryHotspur,1871,1870,1800,realism
+Lady_Altringham,0.4667689999999999,moneyed,male,HarryHotspur,1871,1870,1800,realism
+Harry_Hotspur,14.106872,moneyed,male,HarryHotspur,1871,1870,1800,realism
+Lord_Verney,6.5512510000000015,moneyed,female,Inheritance of Evil,1849,1840,1800,gothic
+Richard_Clayton,11.131347,moneyed,female,Inheritance of Evil,1849,1840,1800,gothic
+Lady_Verney,3.744825,moneyed,female,Inheritance of Evil,1849,1840,1800,gothic
+Mr_Rochester,5.731,"moneyed,suitor,guardian",female,Jane Eyre,1847,1840,1800,gothic
+John_Eyre,2.694281,moneyed,female,Jane Eyre,1847,1840,1800,gothic
+Monica_Knollys,4.39394,moneyed,male,LeFanu_Uncle_Silas,1864,1860,1800,gothic
+Austin_Ruthyn,0.041496,moneyed,male,LeFanu_Uncle_Silas,1864,1860,1800,gothic
+Miles,6.389344,"guardian, moneyed",male,Lucretia,1846,1840,1800,gothic
+Mr_Featherstone,1.408,moneyed,female,Middlemarch,1871,1870,1800,realism
+Mr_Casaubon,5.851609,moneyed,female,Middlemarch,1871,1870,1800,realism
+Lord_B,0.0297275556954499,"heir, moneyed, suitor,",male,Modern Times,1785,1780,1700,picaresque
+Mr_Wildman,3.824945499481221,moneyed,male,Modern Times,1785,1780,1700,picaresque
+General_Tilney,0.970971,moneyed,female,Northanger Abbey,1817,1810,1800,gothic
+Lord_Clonbrony,5.504797,"moneyed, father",female,TheAbsentee,1812,1810,1800,realism
+James_Brooke,2.893218,moneyed,female,TheAbsentee,1812,1810,1800,realism
+Gace_Nugent,4.655315,moneyed,female,TheAbsentee,1812,1810,1800,realism
+Lady_Isabel,0.632026,moneyed,female,TheAbsentee,1812,1810,1800,realism
+Isabella,18.710838,moneyed,male,TheCastleofOtranto,1764,1760,1700,gothic
+Sir_George,6.5025319999999995,"suitor, moneyed",female,TheFemaleQuixote,1752,1750,1700,courtship
+Mr_Woodford,1.448622,moneyed,female,TheOldManorHouse,1793,1790,1700,gothic
+Mr_Stockton,0.8346469999999999,moneyed,female,TheOldManorHouse,1793,1790,1700,gothic
+Sir_John,1.562684,"moneyed, suitor",female,TheOldManorHouse,1793,1790,1700,gothic
+Count_Montoni,2.885097,"moneyed, suitor",female,The Mysteries of Udolpho,1794,1790,1700,gothic
+Madame_Montoni,1.385676,"guardian, moneyed",female,The Mysteries of Udolpho,1794,1790,1700,gothic
+Mr_Allworthy,6.692647899418651,moneyed,male,Tom Jones,1749,1740,1700,picaresque
+Mrs_Fitzpatrick,0.542365916556253,moneyed,male,Tom Jones,1749,1740,1700,picaresque

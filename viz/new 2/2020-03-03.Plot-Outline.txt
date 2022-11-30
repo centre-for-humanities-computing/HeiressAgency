@@ -1,0 +1,61 @@
+What we need
+         
+    All characters
+          - Most agentful ✅
+          - Most benefactive ✅
+          
+
+Group 1
+
+    Heiresses
+         With 1st person 
+             - By actor ✅
+             - By benefactor ✅
+             - Actor + Benefactor by genre ✅
+             - Actor + Benefactor by decade ✅
+             - Actor + Benefactor by century ✅
+             
+         Without 1st person 
+             - By actor ✅
+             - By benefactor ✅
+             - Actor + Benefactor by genre ✅
+             - Actor + Benefactor by decade ✅
+             - Actor + Benefactor by century ✅
+         
+    Heirs
+         With 1st person
+             - By actor ✅
+             - By benefactor ✅
+             - Actor + Benefactor by genre ✅
+             - Actor + Benefactor by decade ✅
+             - Actor + Benefactor by century ✅
+         
+         Without 1st person
+             - By actor ✅
+             - By benefactor ✅
+             - Actor + Benefactor by genre ✅
+             - Actor + Benefactor by century ✅
+             
+             
+Group 2
+
+    Heirs vs heiresses
+         - By genre ✅
+         - By decade ✅
+         - By century ✅
+             
+    Suitors vs Heiresses
+         - By genre ✅
+         - By decade ✅
+         - By century ✅
+         
+    Moneyed vs Unmoneyed
+         - By genre ✅
+         - By decade ✅
+         - By century ✅
+     
+    Ward vs Guardian
+         - By genre ✅
+         - By decade ✅
+         - By century ✅
+         
